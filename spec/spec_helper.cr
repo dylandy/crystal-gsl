@@ -1,3 +1,3 @@
 require "spec"
-require "../src/statistics"
-require "../src/matrices"
+require "../src/gsl/base/statistics"
+require "../src/gsl/base/matrices"
